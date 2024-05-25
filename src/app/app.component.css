@@ -1,0 +1,7 @@
+.instructions li {
+  counter-increment: Count;
+}
+
+.instructions li::before {
+  content: counter(Count) ". ";
+}
