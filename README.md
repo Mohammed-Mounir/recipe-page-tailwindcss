@@ -27,7 +27,7 @@ Mobile Design
 
 ### Links
 
-- Solution URL: [URL](https://github.com/Mohammed-Mounir/recipe-page-tailwindcs)
+- Solution URL: [URL](https://github.com/Mohammed-Mounir/recipe-page-tailwindcss)
 - Live Site URL: [URL](https://mohammed-mounir.github.io/recipe-page-tailwindcss/)
 
 ## My process
